@@ -1,0 +1,1 @@
+$ ( '#inputOla' ) . clique 
